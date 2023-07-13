@@ -1,0 +1,2 @@
+# Vulnerabletiy_Report_Structure
+Vulnerabletiy Report structure
