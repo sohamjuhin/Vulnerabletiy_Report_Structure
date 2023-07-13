@@ -1,0 +1,24 @@
+Vulnerabletiy Report 
+
+Vulnerabletiy Name-
+
+Vulnerabletiy Dirscription -
+
+Vulnerabletiy URL -
+
+
+
+Payload -
+
+
+Step of reproduce -
+
+Vulnerabletiy impact-
+
+
+Vulnerabletiy mitigration(solve):-
+
+
+POC -
+
+screenshort-
